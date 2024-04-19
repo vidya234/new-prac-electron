@@ -1,0 +1,21 @@
+# Output from build processes
+/dist/
+/out/
+/build/
+/release/
+
+# Dependency directories
+/node_modules/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.db
+*.sqlite
+
+# Editor/IDE configurations
+.vscode/
+.idea/
